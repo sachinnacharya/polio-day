@@ -1,0 +1,33 @@
+a {
+  background-color: #4CAF50;
+  font-size: 18px;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+
+.content {
+  margin: auto;
+  max-width: 80%;
+}
+
+hr {
+  height: 1px;
+  background-color: #ccc;
+}
+
+.image1 img {
+  margin-left: 50px;
+  width: 90%;
+  transition: transform .8s ease-in-out;
+}
+
+.image1 img:hover {
+  transform: scale(1.1);
+}
+
+.Gif{
+display: flex;
+}
